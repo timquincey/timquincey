@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, i am Tim Quincey 👋
 
 I am a motivated, adaptable, and ambitious software developer. Always looking to stay up to date with latest technologies, improve knowledge, develop skills and embrace new challenges.
 
