@@ -10,4 +10,3 @@ In my spare time i also enjoy working on personal projects and learning other la
 
 - 💼 Connect with me: <a href="https://www.linkedin.com/in/tim-quincey-743158a0">Linkedin</a>
 - 📫 Contact me: <a href="mailto:timquincey@me.com">timquincey@me.com</a>
-- 🌎 Website: <a href="https://www.timquincey.me">https://www.timquincey.me</a>
