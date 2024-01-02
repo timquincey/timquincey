@@ -4,7 +4,7 @@
 
 I am a motivated, adaptable, and ambitious software developer. Always looking to stay up to date with latest technologies, improve knowledge, develop skills and embrace new challenges.
 
-Currently i am working for <a href="https://www.ncfe.org.uk/">NCFE</a> as a software developer, my daily stack is PHP (Laravel), MySQL, Docker and AWS (S3, ECR, ECS). I also have experience with following other PHP frameworks (Slim, Lumen, CodeIgniter)
+Currently i am working for <a href="https://www.ncfe.org.uk/">NCFE</a> as a senior software developer, my daily stack is PHP (Laravel), MySQL, Docker, Terraform. I also have experience with following other PHP frameworks (Slim, Lumen, CodeIgniter)
 
 In my spare time i also enjoy working on personal projects and learning other languages.
 
