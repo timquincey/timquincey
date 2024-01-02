@@ -6,7 +6,7 @@ I am a motivated, adaptable, and ambitious software developer. Always looking to
 
 Currently i am working for <a href="https://www.ncfe.org.uk/">NCFE</a> as a senior software developer, my daily stack is PHP (Laravel), MySQL, Docker, Terraform. I also have experience with following other PHP frameworks (Slim, Lumen, CodeIgniter)
 
-In my spare time i also enjoy working on personal projects and learning other languages.
+In my spare time i also enjoy working on personal projects and learning other languages (currently Python).
 
 - 💼 Connect with me: <a href="https://www.linkedin.com/in/tim-quincey-743158a0">Linkedin</a>
 - 📫 Contact me: <a href="mailto:timquincey@me.com">timquincey@me.com</a>
